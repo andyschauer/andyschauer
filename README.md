@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andyschauer
 - 👀 I’m interested in isotope geochemistry, less monotony with coding, and coffee.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and github.
 - 💞️ I’m looking to collaborate on life.
 - 📫 How to reach me - isolab.ess.washington.edu
 
