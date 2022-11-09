@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @andyschauer
-- 👀 I’m interested in isotope geochemistry, less monotony with coding, and coffee.
-- 🌱 I’m currently learning python and github.
-- 💞️ I’m looking to collaborate on life.
+- 👋 Hi, I’m @andyschauer.
+- 👀 I’m interested in isotope geochemistry, data, accuracy, science, less monotony with coding, and coffee.
+- 🌱 I hope to always be learning. Right now my focus is python, git, and CRDS guts. Next up, C, R, and &Delta;<sub>48</sub>.
+- 💞️ I’m looking to collaborate. Collaboration is the only way we are going to get this done.
 - 📫 How to reach me - isolab.ess.washington.edu
 
 <!---
